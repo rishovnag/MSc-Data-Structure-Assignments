@@ -1,4 +1,4 @@
-/* ASSIGNMENT 10 : SIEVE SORT */
+/* Assignment 10 : Sieve Sort */
 
 #include<stdio.h>
 #include<stdlib.h>
