@@ -1,4 +1,4 @@
-/*Assignment 10 : Problem of incrementing n digit binary integers and compute amortized cost of the algorithm in terms of n*/
+/*Problem of incrementing n digit binary integers and compute amortized cost of the algorithm in terms of n*/
 
 #include<stdio.h>
 #include<math.h>
